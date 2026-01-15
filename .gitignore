@@ -1,0 +1,17 @@
+# secrets
+.env
+*.env
+tax_revolt_project.env
+
+# virtual environments
+.venv/
+
+# notebooks / caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.npy
+*.parquet
+
+# large / copyrighted sources
+*.pdf
