@@ -1,0 +1,8 @@
+# secrets
+tax_revolt_project.env
+
+*.pdf
+
+# claude code internals
+.claude/
+
